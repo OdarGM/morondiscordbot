@@ -74,5 +74,5 @@ moron.on('message', async message => {
         });
      }
 });
-moron.login(process.env.MORON);
-let client = 468767749083103242; //wot lel ;
+moron.login(process.env.moron);
+
